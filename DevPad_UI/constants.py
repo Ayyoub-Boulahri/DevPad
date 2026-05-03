@@ -1,0 +1,14 @@
+BG        = "#0f1117"
+BG2       = "#1a1d27"
+BG3       = "#222636"
+ACCENT    = "#00e5ff"
+ACCENT2   = "#7c3aed"
+TEXT      = "#e8eaf6"
+TEXT_DIM  = "#6b7280"
+RED       = "#ff4757"
+GREEN     = "#00e676"
+FONT_MONO = ("Courier New", 10)
+FONT_UI   = ("Segoe UI", 10)
+FONT_H1   = ("Segoe UI", 18, "bold")
+FONT_H2   = ("Segoe UI", 13, "bold")
+FONT_CARD = ("Segoe UI", 11, "bold")
