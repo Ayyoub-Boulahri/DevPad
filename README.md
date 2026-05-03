@@ -1,11 +1,16 @@
 # DevPad ⌨
 
-> A programmable dev environment launcher — press a button, your whole dev setup opens automatically.
+> One click to launch your entire dev environment — no terminal, no setup, no hassle.
 
-DevPad is an ESP32-powered macro pad that acts as a BLE keyboard. You define profiles (e.g. "Portfolio", "Snake Game") with sequences of terminal commands and keyboard shortcuts. Press a button on the device and it types everything for you.
+DevPad is a physical device that lets you save your dev environment setups as profiles
+and launch them instantly with the press of a button. Whether it's starting a local server,
+activating a virtual environment, or opening a browser at the right URL — DevPad does it
+all in one click, every time.
+
+No more typing the same commands every time you sit down to code.
+Just press, and your environment is ready.
 
 A companion Python desktop app lets you create, edit, and sync profiles to the device over USB.
-
 ---
 
 ## Demo
