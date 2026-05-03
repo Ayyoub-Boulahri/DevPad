@@ -1,0 +1,61 @@
+{
+  "profiles": [
+    {
+      "name": "Portfolio",
+      "actions": [
+        { "type": "keys", "data": ["CTRL", "ALT", "T"] },
+        { "type": "text", "data": "cd /home/ayyoub/Desktop/portfolio/boulahriayyoub" },
+        { "type": "text", "data": "npm run dev" },
+        { "type": "keys", "data": ["CTRL", "ALT", "T"] },
+        { "type": "text", "data": "google-chrome http://localhost:8080/" }
+      ]
+    },
+    {
+      "name": "snake game",
+      "actions": [
+        { "type": "keys", "data": ["CTRL", "ALT", "T"] },
+        { "type": "text", "data": "cd /home/ayyoub/Desktop/projects/test/snake_game" },
+        { "type": "text", "data": "source .venv/bin/activate" },
+        { "type": "text", "data": "python3 game.py" }
+      ]
+    },
+    {
+      "name": "Portfolio",
+      "actions": [
+        { "type": "keys", "data": ["CTRL", "ALT", "T"] },
+        { "type": "text", "data": "cd /home/ayyoub/Desktop/portfolio/boulahriayyoub" },
+        { "type": "text", "data": "npm run dev" },
+        { "type": "keys", "data": ["CTRL", "ALT", "T"] },
+        { "type": "text", "data": "google-chrome http://localhost:8080/" }
+      ]
+    },
+    {
+      "name": "snake game",
+      "actions": [
+        { "type": "keys", "data": ["CTRL", "ALT", "T"] },
+        { "type": "text", "data": "cd /home/ayyoub/Desktop/projects/test/snake_game" },
+        { "type": "text", "data": "source .venv/bin/activate" },
+        { "type": "text", "data": "python3 game.py" }
+      ]
+    },
+    {
+      "name": "Portfolio",
+      "actions": [
+        { "type": "keys", "data": ["CTRL", "ALT", "T"] },
+        { "type": "text", "data": "cd /home/ayyoub/Desktop/portfolio/boulahriayyoub" },
+        { "type": "text", "data": "npm run dev" },
+        { "type": "keys", "data": ["CTRL", "ALT", "T"] },
+        { "type": "text", "data": "google-chrome http://localhost:8080/" }
+      ]
+    },
+    {
+      "name": "snake game",
+      "actions": [
+        { "type": "keys", "data": ["CTRL", "ALT", "T"] },
+        { "type": "text", "data": "cd /home/ayyoub/Desktop/projects/test/snake_game" },
+        { "type": "text", "data": "source .venv/bin/activate" },
+        { "type": "text", "data": "python3 game.py" }
+      ]
+    }
+  ]
+}
