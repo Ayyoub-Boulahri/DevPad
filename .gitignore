@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Arduino / ESP32
+*.bin
+*.elf
+*.hex
+spiffs.bin
+build/
+
+# Arduino IDE
+*.bak
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
